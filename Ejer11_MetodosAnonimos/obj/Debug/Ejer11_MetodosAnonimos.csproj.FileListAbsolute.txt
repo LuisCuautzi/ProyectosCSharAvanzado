@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\bin\Debug\Ejer11_MetodosAnonimos.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\bin\Debug\Ejer11_MetodosAnonimos.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\bin\Debug\Ejer11_MetodosAnonimos.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\obj\Debug\Ejer11_MetodosAnonimos.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\obj\Debug\Ejer11_MetodosAnonimos.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\obj\Debug\Ejer11_MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\obj\Debug\Ejer11_MetodosAnonimos.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer11_MetodosAnonimos\obj\Debug\Ejer11_MetodosAnonimos.pdb

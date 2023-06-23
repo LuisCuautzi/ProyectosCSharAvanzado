@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\bin\Debug\Ejer2_Interfaces.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\bin\Debug\Ejer2_Interfaces.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\bin\Debug\Ejer2_Interfaces.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\obj\Debug\Ejer2_Interfaces.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\obj\Debug\Ejer2_Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\obj\Debug\Ejer2_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\obj\Debug\Ejer2_Interfaces.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer2_Interfaces\obj\Debug\Ejer2_Interfaces.pdb

@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\bin\Debug\Ejer4_IEnumerable2.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\bin\Debug\Ejer4_IEnumerable2.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\bin\Debug\Ejer4_IEnumerable2.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\obj\Debug\Ejer4_IEnumerable2.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\obj\Debug\Ejer4_IEnumerable2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\obj\Debug\Ejer4_IEnumerable2.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\obj\Debug\Ejer4_IEnumerable2.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer4_IEnumerable2\obj\Debug\Ejer4_IEnumerable2.pdb

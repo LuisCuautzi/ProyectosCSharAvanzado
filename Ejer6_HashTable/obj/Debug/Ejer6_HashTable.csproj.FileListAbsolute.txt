@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\bin\Debug\Ejer6_HashTable.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\bin\Debug\Ejer6_HashTable.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\bin\Debug\Ejer6_HashTable.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\obj\Debug\Ejer6_HashTable.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\obj\Debug\Ejer6_HashTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\obj\Debug\Ejer6_HashTable.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\obj\Debug\Ejer6_HashTable.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer6_HashTable\obj\Debug\Ejer6_HashTable.pdb

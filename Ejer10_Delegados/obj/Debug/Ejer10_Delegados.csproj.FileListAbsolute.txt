@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\bin\Debug\Ejer10_Delegados.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\bin\Debug\Ejer10_Delegados.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\bin\Debug\Ejer10_Delegados.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\obj\Debug\Ejer10_Delegados.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\obj\Debug\Ejer10_Delegados.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\obj\Debug\Ejer10_Delegados.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\obj\Debug\Ejer10_Delegados.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer10_Delegados\obj\Debug\Ejer10_Delegados.pdb

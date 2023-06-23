@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\bin\Debug\Ejer9_VariablesImplicitas.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\bin\Debug\Ejer9_VariablesImplicitas.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\bin\Debug\Ejer9_VariablesImplicitas.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\obj\Debug\Ejer9_VariablesImplicitas.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\obj\Debug\Ejer9_VariablesImplicitas.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\obj\Debug\Ejer9_VariablesImplicitas.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\obj\Debug\Ejer9_VariablesImplicitas.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer9_VariablesImplicitas\obj\Debug\Ejer9_VariablesImplicitas.pdb

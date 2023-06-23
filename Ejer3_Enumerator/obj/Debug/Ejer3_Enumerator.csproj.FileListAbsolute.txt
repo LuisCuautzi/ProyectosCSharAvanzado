@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\bin\Debug\Ejer3_Enumerator.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\bin\Debug\Ejer3_Enumerator.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\bin\Debug\Ejer3_Enumerator.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\obj\Debug\Ejer3_Enumerator.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\obj\Debug\Ejer3_Enumerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\obj\Debug\Ejer3_Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\obj\Debug\Ejer3_Enumerator.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer3_Enumerator\obj\Debug\Ejer3_Enumerator.pdb

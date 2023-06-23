@@ -1,0 +1,8 @@
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\bin\Debug\Ejer12_ExpresionesLamda.exe.config
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\bin\Debug\Ejer12_ExpresionesLamda.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\bin\Debug\Ejer12_ExpresionesLamda.pdb
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\obj\Debug\Ejer12_ExpresionesLamda.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\obj\Debug\Ejer12_ExpresionesLamda.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\obj\Debug\Ejer12_ExpresionesLamda.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\obj\Debug\Ejer12_ExpresionesLamda.exe
+C:\Users\TRNET-13\source\repos\Gen 06_23\SolSSharpAvanzado\Ejer12_ExpresionesLamda\obj\Debug\Ejer12_ExpresionesLamda.pdb
